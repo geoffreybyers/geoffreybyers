@@ -34,7 +34,7 @@
 - 👥 **[Empeopled](https://empeopled.com/)** - Online social platform featuring democratic self-governance
 - 🚗 **[Siemens NX Auto Designer](https://www.plm.automation.siemens.com/en/products/nx/)** - Advanced automation design (CAD/CAM) for auto manufacturing facilities
 - 🩸 **[Siemens RapidPoint 500](https://www.siemens-healthineers.com/blood-gas/blood-gas-systems/rapidpoint-500-systems)** - End-to-end POC blood gas solution
-- 🚨 **[Siemens Mass Notification System](https://sid.siemens.com/api/khub/documents/9_aUuEi48U1GFIDisdvN4A/content)** - Multi-layered, centralized communication for emergencies and routine alerts within buildings or across large campuses
+- 🚨 **[Siemens Mass Notification System](https://sid.siemens.com/api/khub/documents/9_aUuEi48U1GFIDisdvN4A/content)** - Centralized communication for emergencies and alerts
 - 🖥️ **[Siemens Desigo Touch](https://www.siemens.com/en-us/products/desigo/)** - Touch Interface for operating and monitoring building systems
 - 🚀 **[NASA Space Shuttle Program](https://www.nasa.gov/michoud-assembly-facility/)** - Manufactured flight-ready orange external fuel tanks used from 1979 to 2010
 
