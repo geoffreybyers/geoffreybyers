@@ -25,7 +25,8 @@
 - 🏛️ **[LLM Council](https://github.com/geoffreybyers/llm-council)** - Five AI advisors. One verdict. No groupthink.
 - 🎉 **[Dancehall Airhorn](http://dancehallairhorn.com/)** - Start the party
 
-### Legacy Work
+## Legacy Work
+
 - 📄 **[JustPark (fka ParkHub)](https://justpark.com)** - Industry-leading mobility & fintech company ([exited 2022](https://www.llrpartners.com/parkhub-secures-growth-investment-from-llr-partners/))
 - 💨 **[Breathe B12 (fka VitaminVape)](https://breatheb12.com)** - The world's first vitamin B12 vaporizer
 - 🚘 **[Capital One Auto Navigator](https://www.capitalone.com/cars/)** - Easy-breezy car shopping via loan pre-qualification
