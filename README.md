@@ -40,7 +40,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/geoffreybyers)
+![GitHub Contribution Graph](http://ghchart.rshah.org/geoffreybyers)
 
 ## What I'm Doing
 
