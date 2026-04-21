@@ -21,7 +21,7 @@
 
 ## Current Projects
 
-- 🗣️ **[PrivateDictate](https://github.com/geoffreybyers/private-dictate)** - 100% private, Local, fast, STT dictation
+- 🗣️ **[Private Dictate](https://github.com/geoffreybyers/private-dictate)** - 100% private, local, fast, speech to text
 - 🏛️ **[LLM Council](https://github.com/geoffreybyers/llm-council)** - Five AI advisors. One verdict. No groupthink.
 - 🎉 **[Dancehall Airhorn](http://dancehallairhorn.com/)** - Start the party
 
