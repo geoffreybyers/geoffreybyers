@@ -1,4 +1,4 @@
-# Hey friends, I'm Geoffrey 👋
+# Howdy friends, I'm Geoffrey 👋
 
 📍 **Dallas, TX** | 🛠️ **Founder, Designer, Builder** | 🚀 **1x Exit**
 
