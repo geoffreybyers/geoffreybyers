@@ -21,7 +21,7 @@
 
 ## Current Projects
 
-- 📚 **[Podcast LLM Wiki](https://github.com/geoffreybyers/podcast-llm-wiki)** - Transform Podcasts into Karpathy-style LLM Wikis inside Obsidian vaults
+- 📚 **[Podcast LLM Wiki](https://github.com/geoffreybyers/podcast-llm-wiki)** - Transform Podcasts into Karpathy-style LLM Wikis
 - 🗣️ **[Private Dictate](https://github.com/geoffreybyers/private-dictate)** - 100% private, local, fast, speech to text
 - 🏛️ **[LLM Council](https://github.com/geoffreybyers/llm-council)** - Five AI advisors. One verdict. No groupthink.
 - 🎉 **[Dancehall Airhorn](http://dancehallairhorn.com/)** - Start the party
