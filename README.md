@@ -11,7 +11,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Running on caffeine, tokens, and vibes - so deep in vibe-coding I might never find my way out.
+> Running on caffeine, tokens, and vibes - in so deep I might never find my way out.
 
 ## Current Ventures
 
