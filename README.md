@@ -15,9 +15,8 @@
 
 ## Current Ventures
 
-- 📦 **[Supply Hero](https://google.com/)** (closed source) – Supply chain complexity absorption
+- 🧠 **[Neuropic](https://google.com/)** (closed source) –  Agentic nervous system for SMBs in food & bev / retail
 - 🧪 **[Cost Plus Peptides](https://costpluspeptides.com/)** (closed source) – High quality research peptides
-- 🪙 **[Cerno Analytica](https://google.com/)** (closed source) – Agentic numismatic grading service
 
 ## Current Projects
 
