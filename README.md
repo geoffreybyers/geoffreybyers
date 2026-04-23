@@ -20,7 +20,7 @@
 
 ## Current Projects
 
-- 📚 **[Boook LLM Wiki](https://github.com/geoffreybyers/book-llm-wiki)** - Ingest books + summaries into Karpathy-style LLM Wikis
+- 📚 **[Book LLM Wiki](https://github.com/geoffreybyers/book-llm-wiki)** - Ingest books + summaries into Karpathy-style LLM Wikis
 - 🎙️ **[Podcast LLM Wiki](https://github.com/geoffreybyers/podcast-llm-wiki)** - Ingest podcasts into Karpathy-style LLM Wikis
 - 🗣️ **[Private Dictate](https://github.com/geoffreybyers/private-dictate)** - 100% private, local, fast, speech to text
 - 🏛️ **[LLM Council](https://github.com/geoffreybyers/llm-council)** - Five AI advisors. One verdict. No groupthink.
