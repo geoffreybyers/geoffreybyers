@@ -15,7 +15,7 @@
 
 ## Current Ventures
 - 📦 **[SupplyHero](https://google.com/)** (closed source) –  Supplychain complexity absorbtion
-- 🧠 **[Neuros](https://google.com/)** (closed source) –  Agentic nervous system for SMBs in food & bev / retail
+- 🧠 **[Neuros](https://google.com/)** (closed source) –  Agentic nervous system for SMBs
 - 🧪 **[Cost Plus Peptides](https://costpluspeptides.com/)** (closed source) – High quality research peptides
 
 ## Current Projects
